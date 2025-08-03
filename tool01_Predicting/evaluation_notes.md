@@ -11,7 +11,7 @@
 ### Setup Steps Completed
 
 1. **Downloaded and Extracted Files**
-   - Obtained the ZIP archive from the tool list (https://zenodo.org/records/7506997#.Y7cEzRXMK3A).
+   - Obtained the ZIP archive from the tool list (https://zenodo.org/records/5739321#.YaWNcNDMKUk).
    - Extracted it into the `tool01_Predicting` directory.
 
 2. **Verified Project Contents**
